@@ -1,0 +1,16 @@
+github: [gmbrl]  # Your GitHub username for Sponsors (up to 4)
+patreon: gmbrl     # Sample: Your Patreon page username
+open_collective: gmbrl  # Sample: Your Open Collective slug
+ko_fi: gmbrl       # Sample: Your Ko-fi username
+tidelift: npm/gmbrl-package  # Sample: npm/your-package-name
+community_bridge: gmbrl-project  # Sample: your-project-name
+liberapay: gmbrl   # Sample: Your Liberapay username
+issuehunt: gmbrl   # Sample: Your IssueHunt username
+lfx_crowdfunding: gmbrl-project  # Sample: your-project-name
+polar: gmbrl       # Sample: Your Polar username
+buy_me_a_coffee: gmbrl🤍🤍  # Sample: Your Buy Me a Coffee username
+thanks_dev: gmbrl🤍🤍  # Sample: Your thanks.dev username
+custom: 
+  - https://your-custom-link1.com
+  - https://your-custom-link2.com
+  # Up to 4 custom sponsorship URLs
