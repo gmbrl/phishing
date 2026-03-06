@@ -20,3 +20,4 @@ backend/.env.production.local
 /.cache
 /.next
 /.eslintcache
+backend/dist/
